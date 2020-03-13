@@ -1,4 +1,4 @@
-var _key = 'AIzaSyAf1f66mtl8WMc61npxSgWQTR1aId-J0Ss';
+var _key = 'API KEY';
 var map;
 var locations;
 var users;
